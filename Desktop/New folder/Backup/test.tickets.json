@@ -1,0 +1,2978 @@
+[{
+  "_id": {
+    "$oid": "656997266f6f8b1898269ada"
+  },
+  "id": "9f2dc553-0254-40d6-9c0e-aebd9d8060fe",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Vishnu",
+  "companyName": "Aarogya Hospital",
+  "email": "support@globalin.co.uk",
+  "phoneNumber": "9969869842",
+  "landlineNumber": "",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "Pc Booting Issue pc auto start in Recovery Mode",
+  "resolved": true,
+  "priority": "medium",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-01T08:19:50.044Z"
+  },
+  "logs": [],
+  "__v": 0,
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656accc26bdb1db2cc9d6842"
+  },
+  "id": "382ae10e-a383-4124-abcd-4c5133b6f411",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Ashwini",
+  "companyName": "Honeytech",
+  "email": "123@gmail.com",
+  "phoneNumber": "9594456464",
+  "landlineNumber": "Mulund",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "In Outlook while sent receive mail asking Passwprd again and again",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-02T06:20:50.928Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-02T21:36:46.460Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "ACTIVATE EMAIL ID",
+      "_id": {
+        "$oid": "656ba36e6025b701b72a383d"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Online.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656d6babe9e96006c6e5f447"
+  },
+  "id": "dd484bee-7987-49a5-8732-fde8c198efef",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "VITTHAL",
+  "companyName": "GODAWARI BANK",
+  "email": "123@GMAIL.COM",
+  "phoneNumber": "9765768908",
+  "landlineNumber": "NARIMAN POINT",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "NO POWER IN DOOR ACCESS THUMB DEVICE",
+  "resolved": false,
+  "priority": "low",
+  "Problem": "Assigned.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T06:03:23.473Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-04T06:23:27.855Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "As per engg ( Nivrutti )-One Thumb Device was faulty ( No Power )",
+      "_id": {
+        "$oid": "656d705ffb7caad0284b6510"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit."
+},
+{
+  "_id": {
+    "$oid": "656d6ce5fb7caad0284b63e4"
+  },
+  "id": "1dc9454c-5d81-4f7f-b42f-44e6b4633da1",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "SHYAM",
+  "companyName": "BIGWING - SR",
+  "email": "123@GMAIL.COM",
+  "phoneNumber": "8828228522",
+  "landlineNumber": "PANCH PAKHADI",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "IN OFFICE ONE DOME CAMERA WAS SOME ONE UNMOUNT FROM SELLING",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T06:08:37.114Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-04T11:23:22.554Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Share folder in Reception PC",
+      "_id": {
+        "$oid": "656db6aa8b21206dbd49b116"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656d6f2ffb7caad0284b6462"
+  },
+  "id": "1d536323-8bb1-4233-ad35-88024824d555",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "VINAYAK",
+  "companyName": "DARSHAN PROPERTIIES",
+  "email": "123@GMAIL.COM",
+  "phoneNumber": "9867608227",
+  "landlineNumber": "NARIMAN POINT",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "NAS not accessiable",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T06:18:23.405Z"
+  },
+  "logs": [],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656d6f7bfb7caad0284b6488"
+  },
+  "id": "0d1a5222-4c65-47e3-ab78-5cef168c19a2",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Poonam",
+  "companyName": "Vihan Honda - sr",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Shahapur",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "No Display Issue",
+  "resolved": true,
+  "priority": "medium",
+  "Problem": "Closed.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T06:19:39.020Z"
+  },
+  "logs": [],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656d6fccfb7caad0284b64b2"
+  },
+  "id": "1ae9cd4d-2076-483f-979d-85372d3f68fb",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Rupesh",
+  "companyName": "Vihan Honda - SC",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Wagale",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "PC not start",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T06:21:00.986Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-04T07:23:10.161Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Reconnect all connection",
+      "_id": {
+        "$oid": "656d7e5ec735dcec9ed3e0d4"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656d7004fb7caad0284b64f0"
+  },
+  "id": "1b8cf13a-a956-4eb0-ba18-eda167755564",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Rupesh",
+  "companyName": "Vihan Honda - SC",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Wagale",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "",
+  "remarks": "PC not start",
+  "resolved": true,
+  "priority": "medium",
+  "Problem": "Closed.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T06:21:56.249Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-04T11:58:00.904Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Reconnect all connection and ram clean and refit",
+      "_id": {
+        "$oid": "656dbec88b21206dbd49b25e"
+      }
+    },
+    {
+      "timestamp": {
+        "$date": "2023-12-15T09:31:29.992Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Ram clean and refitt and CMOS clear",
+      "_id": {
+        "$oid": "657c1cf1856fe2f0e9cc665e"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656db9418b21206dbd49b133"
+  },
+  "id": "41db5234-ea11-4dce-8ec8-87fd5f3ec400",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "MILIND GUPTE",
+  "companyName": "MILIND GUPTE",
+  "email": "123@GMAIL.COM",
+  "phoneNumber": "8879216630",
+  "landlineNumber": "THANE",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "RANSOMEWARE ATTACK IN SERVER SYSTEM",
+  "resolved": true,
+  "priority": "high",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T11:34:25.471Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-05T06:14:21.466Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "2 New SSD setup and installed reqd software with old backup",
+      "_id": {
+        "$oid": "656ebfbd52fdfac0a9e2c873"
+      }
+    }
+  ],
+  "__v": 0,
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "656dc2a98b21206dbd49b27d"
+  },
+  "id": "2d85edd8-674a-4adb-88e3-128b52935db1",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "RASHISH",
+  "companyName": "TRIVICTOR",
+  "email": "132@GMAIL.COM",
+  "phoneNumber": "9820507548",
+  "landlineNumber": "NAHUR",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "BOOTING ISSUE",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T12:14:33.311Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-04T12:15:42.286Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Change boot option priority in BIOS",
+      "_id": {
+        "$oid": "656dc2ee8b21206dbd49b2a3"
+      }
+    }
+  ],
+  "__v": 0,
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656dc8588b21206dbd49b32b"
+  },
+  "id": "6c41ea02-d60c-4fca-b73b-33d309d97b62",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "RUPESH",
+  "companyName": "VIHAN HONDA - SC",
+  "email": "123@GMAIL.COM",
+  "phoneNumber": "12345678",
+  "landlineNumber": "WAGALE",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "CABINET START BUTTON DAMAGED AND KEYBOARD SOME KEYS NW",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-04T12:38:48.004Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T05:57:30.920Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Replaced baby slim cabinet and usb keyboard",
+      "_id": {
+        "$oid": "65700d4ab44ce2146aa33d38"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "Problem": "Closed.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656ec02752fdfac0a9e2c896"
+  },
+  "id": "766d8db1-f303-479a-9b3b-032b060c5f5d",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Rashesh",
+  "companyName": "Trivictor",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Nahur",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "PC booting issue",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-05T06:16:07.849Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T06:00:24.258Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Due to Wndows currupt reinstalled Windows and dta restore",
+      "_id": {
+        "$oid": "65700df8b44ce2146aa33d68"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "Problem": "Closed.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656ec0bd52fdfac0a9e2c8db"
+  },
+  "id": "70896fc6-701d-4bf3-9e91-3826f32e76e5",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Milind Gupte",
+  "companyName": "Milind Gupte",
+  "email": "123@gmail.com",
+  "phoneNumber": "8879216630",
+  "landlineNumber": "thane",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "Due to virus 3 System need to format",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-05T06:18:37.855Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T06:02:24.224Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Due to virus system format and reinstalled reqd software",
+      "_id": {
+        "$oid": "65700e70b44ce2146aa33d9a"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "Problem": "Closed.",
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "656ec1ab52fdfac0a9e2c948"
+  },
+  "id": "2eb3111c-9864-4427-b13b-129bad248bec",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Milind Gupte",
+  "companyName": "Milind Gupte",
+  "email": "123@gmail.com",
+  "phoneNumber": "8879216630",
+  "landlineNumber": "Nahur",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "Due to Virus system need to format",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-05T06:22:35.020Z"
+  },
+  "logs": [],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "Problem": "Closed.",
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "656ec1dc52fdfac0a9e2c95c"
+  },
+  "id": "04a8f337-bc4a-487e-93e2-1a122fdbd506",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Milind Gupte",
+  "companyName": "Milind Gupte",
+  "email": "123@gmail.com",
+  "phoneNumber": "8879216630",
+  "landlineNumber": "Nahur",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "Due to Virus system need to format ",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-05T06:23:24.787Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T06:09:28.100Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Due to virus pc format and installed reqd software",
+      "_id": {
+        "$oid": "6570101899e89b765eda9e99"
+      }
+    }
+  ],
+  "__v": 0,
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "656ec28d52fdfac0a9e2c9d1"
+  },
+  "id": "1d33657a-b1f5-4418-b628-516984301c09",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Shehabaz",
+  "companyName": "Assad Consultancy",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "Pc Booting issue ( system boot in BIOS mode )",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-05T06:26:21.533Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T06:10:27.295Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Reconnect all connection and ram clean and refitt",
+      "_id": {
+        "$oid": "6570105399e89b765eda9ed0"
+      }
+    }
+  ],
+  "__v": 0,
+  "ServiceType": "Visit.",
+  "Problem": "Closed.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656ec31052fdfac0a9e2ca15"
+  },
+  "id": "0c9b99cc-5303-4558-940d-1cd6bfb216c0",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Bharati",
+  "companyName": "Suresh auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "9879923434",
+  "landlineNumber": "Kopari",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "1 New lan cable need to crimping on both side",
+  "resolved": true,
+  "priority": "low",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-05T06:28:32.493Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T07:20:32.620Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "One new cat6 cable crimped on both side",
+      "_id": {
+        "$oid": "657020c0a344e17674fcd697"
+      }
+    }
+  ],
+  "__v": 0,
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "656ecfb052e89f7e62d81601"
+  },
+  "id": "539f2ce5-26e6-4fe3-8c9a-2b263d9a7804",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Yogesh",
+  "companyName": "Suresh Auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "9321518125",
+  "landlineNumber": "Dombivali",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "USER NEED TO ADD IN DOOR ACCESS CONTROLLER",
+  "resolved": true,
+  "priority": "high",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-05T07:22:24.248Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-07T08:22:21.853Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "User add in door access",
+      "_id": {
+        "$oid": "657180bdc94870ed6026c702"
+      }
+    }
+  ],
+  "__v": 0,
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657011a799e89b765eda9f40"
+  },
+  "id": "7e45699a-72b7-4ef7-9c14-2bea40cb6dd3",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Ekta",
+  "companyName": "Trivictor",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Nahur",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "Hdd Issue",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-06T06:16:07.454Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T06:16:59.420Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "500 gb installed and reqd software with data backup done",
+      "_id": {
+        "$oid": "657011db99e89b765eda9f6a"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6570136499e89b765eda9f97"
+  },
+  "id": "a205ebd4-e53b-4d7f-ae0c-b856c3f13ef9",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Nandu/Pravina",
+  "companyName": "Suresh Autocraft",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Andheri",
+  "issue": "Hardware",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "In stock pc 1 pc need to start",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-06T06:23:32.485Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-14T09:06:31.827Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Mr. Nandu Not giving approval for pc parts so call closed from our side and confirm with Nandu on 14 Dec 23 at 2:10 pm on phone call",
+      "_id": {
+        "$oid": "657ac597bd0e31a6d2690a5b"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6570143c99e89b765eda9fe7"
+  },
+  "id": "b464d58b-5301-4ebf-9129-9fbc42fcba62",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Gayatri",
+  "companyName": "Suresh auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "RTO",
+  "issue": "Software",
+  "classification": "Problem",
+  "channel": "Phone",
+  "remarks": "1 - C Drive Full\n2 - Light print out issue",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-06T06:27:08.155Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T06:28:47.055Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "1 - For C drive full found ssd size is only 120 GB so suggest for ssd upgrade 2 -  After toner replaced printout coming properly",
+      "_id": {
+        "$oid": "6570149f99e89b765edaa013"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6570157da344e17674fcd431"
+  },
+  "id": "a8658f20-147f-4ed2-9673-1afbdcde7902",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Milind Gpte",
+  "companyName": "Milind Gpte",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Due to Virus pc  need to format",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-06T06:32:29.060Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-08T06:48:00.828Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Due to Virus PC format and installed reqd software",
+      "_id": {
+        "$oid": "6572bc2062a003fbac67bba3"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "657016a8a344e17674fcd53d"
+  },
+  "id": "df2899fd-3f8c-402e-9b39-b446fe0992e9",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Test.",
+  "companyName": "Test Company.",
+  "email": "test@gmail.com",
+  "phoneNumber": "9182736455",
+  "landlineNumber": "Mumbai.",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Test.",
+  "resolved": false,
+  "priority": "medium",
+  "Problem": "Part Pending.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202311299805",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-06T06:37:28.144Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-06T11:36:44.807Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": ">>.",
+      "_id": {
+        "$oid": "65705ccc432961db05b7ea18"
+      }
+    },
+    {
+      "timestamp": {
+        "$date": "2023-12-06T11:48:03.282Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "JDJjdkjsdfdscds,c;lsdcsJDJjdkjsdJDJjdkjsdJDJjdJDJjdkjJDJjdkjsdfdscds,c;lsdcsJDJjdkjsdJDJjdkjsdJDJjdJDJjdkjsdfdscds,c;lsdcskjsdfdscds,c;lsdcsfdscds,c;lsdcsfJDJjdkjsdfdscds,c;lsdcsJDJjdkjsdJDJjdkjsdJDJjdJDJjdkjsdfdscds,c;lsdcskjsdfdscds,c;lsdcsfdscds,c;lsdcJDJjdkjsdfdscds,c;lsdcsJDJjdkjsdJDJjdkjsdJDJjdJDJjdkjsdfdscds,c;lsdcskjsdfdscds,c;lsdcsfdscds,c;lsdcsfdscds,c;lsdcssfdscds,c;lsdcsdscds,c;lsdcssdfdscds,c;lsdcskjsdfdscds,c;lsdcsfdscds,c;lsdcsfdscds,c;lsdcs",
+      "_id": {
+        "$oid": "65705f7319429c2eafb1b607"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "65701760a344e17674fcd566"
+  },
+  "id": "8dd67dda-8b5d-48e2-9e09-34f82fd6a868",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Milind Gupte",
+  "companyName": "Milind Gupte",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Nariman Point",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Due to virus system need to format",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-06T06:40:32.490Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-08T06:49:04.678Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Customer cancel the pc formating",
+      "_id": {
+        "$oid": "6572bc6062a003fbac67bbf2"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "6570216aa344e17674fcd6d8"
+  },
+  "id": "3e93cbca-b2e2-44c4-9c9e-335368dbefbb",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Sagar",
+  "companyName": "Big Wing - sc",
+  "email": "123@gmail.com",
+  "phoneNumber": "8369887836",
+  "landlineNumber": "Mira Road",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "3 Camera not show in software",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-06T07:23:22.221Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-15T09:10:20.734Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Online check cctv one camera disconnect in NVR so add camera and check fouund ok",
+      "_id": {
+        "$oid": "657c17fc856fe2f0e9cc6282"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6571822cc94870ed6026c7ab"
+  },
+  "id": "c4a3823f-6716-4458-9af2-9788ab9ce405",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Ekta",
+  "companyName": "Trivictor",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Nahur",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Out look N/W",
+  "resolved": true,
+  "priority": "medium",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-07T08:28:28.303Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-07T10:30:55.705Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "For internet issue wire crimping / For outlook Issue pst repaired / scanner installed",
+      "_id": {
+        "$oid": "65719edfb7d88a45191d9782"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6571855bc94870ed6026c855"
+  },
+  "id": "ebcc909b-1f25-4322-857a-4dab12a3d54e",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Deepak",
+  "companyName": "LAHS",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Server Data Backup ",
+  "resolved": true,
+  "priority": "medium",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-07T08:42:03.648Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-08T05:03:36.749Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Take a backup oof server data in ext. hdd",
+      "_id": {
+        "$oid": "6572a3a862a003fbac67ba04"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6571a0a4b7d88a45191d9b1b"
+  },
+  "id": "f28fc2a1-42aa-4fba-b74a-170b43cbe05a",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Jaideep",
+  "companyName": "Jaideep Sahastrbuddhe",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "M S Office N/W",
+  "resolved": true,
+  "priority": "medium",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312072830",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-07T10:38:28.086Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-07T10:43:17.584Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Reinstalled Licenced MS Office",
+      "_id": {
+        "$oid": "6571a1c5b7d88a45191d9bb4"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "6571aa3fb7d88a45191d9d65"
+  },
+  "id": "d3b09c6e-604f-42b1-bc86-1b82ad6d3408",
+  "byUser": {
+    "$numberLong": "202312026303"
+  },
+  "name": "Sanket",
+  "companyName": "ABC",
+  "email": "sanket@gmail.com",
+  "phoneNumber": "999999999",
+  "landlineNumber": "IT",
+  "issue": "Networking",
+  "channel": "Phone",
+  "remarks": "",
+  "resolved": true,
+  "priority": "medium",
+  "Problem": "Open.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-07T11:19:27.471Z"
+  },
+  "logs": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572a40162a003fbac67ba41"
+  },
+  "id": "f75ec752-58ff-4bf5-8c2b-95326df57f1c",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Deepak",
+  "companyName": "LAHS",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Outlook not working",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202311299805",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-08T05:05:05.538Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-08T05:05:43.327Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "PSt repaired",
+      "_id": {
+        "$oid": "6572a42762a003fbac67ba7e"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6572bbb462a003fbac67baec"
+  },
+  "id": "83550bd5-c721-4029-822c-3be7bf0f116b",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Deepika",
+  "companyName": "Vihan Honda - SC",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Kopar Kherane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Autonet not working",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-08T06:46:12.214Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-08T11:30:16.788Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Remove msoff 2007 and installed msoff  10",
+      "_id": {
+        "$oid": "6572fe4862a003fbac67bfd1"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6572bdec62a003fbac67bc35"
+  },
+  "id": "9b76ba9a-ae5b-46fe-b128-ae63140e18f6",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Deepak",
+  "companyName": "LAHS",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Black patch on led monitor",
+  "resolved": false,
+  "priority": "low",
+  "Problem": "Vendor Pending.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-08T06:55:40.695Z"
+  },
+  "logs": [],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6572fc6762a003fbac67bea6"
+  },
+  "id": "c31b075a-6c9a-4b81-b7c3-984d19087ab3",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Ketana",
+  "companyName": "M M singhavi",
+  "email": "123@GMAIL.COM",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Mulund",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "In excel file shets not shown",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-08T11:22:15.671Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-08T11:22:49.119Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "File restore from NAS",
+      "_id": {
+        "$oid": "6572fc8962a003fbac67bee9"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6572fd0162a003fbac67bf2e"
+  },
+  "id": "91ae8b26-a90b-4961-ae58-4537361f1820",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Nilesh",
+  "companyName": "Design",
+  "email": "123@gmail.com",
+  "phoneNumber": "1345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Need to installed Door access magnetic plate on new door\n",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-08T11:24:49.164Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-11T08:51:33.611Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "iNSTALLED dOOR ACCESS PLATE IN DOOR WITH MR. ASLAM",
+      "_id": {
+        "$oid": "6576cd95eaabf7dcc138e0b9"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6573022662a003fbac67c096"
+  },
+  "id": "7ed1c0bb-9c91-4b2b-a82a-f09b2e929026",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Bobby",
+  "companyName": "Vihan Honda - SC",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Kopar Kherane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "In floor pc no power issue",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-08T11:46:46.914Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-14T06:21:32.294Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Replace with new Gigabyte h410 motherboard and pc start",
+      "_id": {
+        "$oid": "657a9eecbd0e31a6d2690536"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6576ce55eaabf7dcc138e198"
+  },
+  "id": "82377609-997a-4065-994a-b6550b62ecb2",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Siraj",
+  "companyName": "Vihan Honda - sc",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "vashi",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd New Time attendance Machine and 1 Laser Printer",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-11T08:54:45.621Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-11T12:28:20.866Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "pRINTER AND T.A.M DELIVERED AND ISTALLED ",
+      "_id": {
+        "$oid": "65770064eaabf7dcc138e702"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6576cec4eaabf7dcc138e220"
+  },
+  "id": "9f810d3b-1cb0-47bc-807c-8b78cffe2ff6",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Ganesh",
+  "companyName": "MKA",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Kopar Kherane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "No Power",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-11T08:56:36.703Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-11T12:02:53.344Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Due to no display issue Replace motherboard in stock and start the system",
+      "_id": {
+        "$oid": "6576fa6deaabf7dcc138e5d3"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "6576d48eeaabf7dcc138e308"
+  },
+  "id": "1303cfa4-af11-4b71-8475-5cdd86da7478",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Gayatri",
+  "companyName": "Suresh auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "RTO-Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "User Gayatri - SSD need to Increase( Reqd 240 Gb SSD )",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-11T09:21:18.252Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-14T06:20:02.444Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Imnstalled new 250 gb ssd and clone with old ssd",
+      "_id": {
+        "$oid": "657a9e92bd0e31a6d2690427"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6576d80ceaabf7dcc138e38f"
+  },
+  "id": "41b6be0b-1821-4150-a7d1-bcaf1a806141",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Naresh",
+  "companyName": "Suresh Auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Ulhasnagar",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Os upgrade from win 7 to win 10",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-11T09:36:12.856Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-11T09:37:23.268Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Increase Ram D4 - 8GB and os upgrade from win 7 to win 10",
+      "_id": {
+        "$oid": "6576d853eaabf7dcc138e3d8"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6576dc70eaabf7dcc138e4b6"
+  },
+  "id": "375b0926-d29b-48fc-b815-313bdc64c810",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Assad",
+  "companyName": "Assad Consultancy",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "In new system need to block internet site as well as USB and need to installed Antivirus",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-11T09:54:56.998Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-12T06:24:32.500Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Internet block via firewall and installed bitdefender antivirus",
+      "_id": {
+        "$oid": "6577fca033f5a8e626b54137"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6576fd2feaabf7dcc138e667"
+  },
+  "id": "7a9c158c-7786-4d1c-b3f6-c2684cc21771",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Rahila",
+  "companyName": "Assad consultancy",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "In ink tank printer paper  pickup problem \n",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-11T12:14:39.793Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-12T06:23:08.188Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "No any issue found check with test print",
+      "_id": {
+        "$oid": "6577fc4c33f5a8e626b540d8"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6577fd1233f5a8e626b5418a"
+  },
+  "id": "53a2a58f-e931-4bc2-8dd2-0029d5c52082",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Sayyam",
+  "companyName": "Vcon Mobers",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "1 PC need to shift and data shift from 1 pc to another system",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-12T06:26:26.934Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-13T07:27:02.306Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "1 System Shift and 1 PC data Back to another",
+      "_id": {
+        "$oid": "65795cc6bcea72bad1b70a3e"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "6577fe5933f5a8e626b54269"
+  },
+  "id": "0d58ccf7-3395-4a10-bd1a-b5ef342f4472",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Jaideep ",
+  "companyName": "Jaideep Sahastrbuddhe",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd New HP Tiny system",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-12T06:31:53.692Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-13T07:25:54.074Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Delivered new tiny CPU and installed",
+      "_id": {
+        "$oid": "65795c82bcea72bad1b7097b"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "65795d27bcea72bad1b70a95"
+  },
+  "id": "82189f7f-5abf-4bc3-b65a-86c79965a708",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Siraj",
+  "companyName": "Vihan Honda - sc",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Vashi",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd new Complete \nDesktop system",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-13T07:28:39.172Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-15T12:12:32.823Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Delivered and istalled new dwsktop system",
+      "_id": {
+        "$oid": "657c42b0856fe2f0e9cc6968"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "65797b89bcea72bad1b70b81"
+  },
+  "id": "114f689a-dfe3-415a-8626-d2178d2e27d2",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Swati",
+  "companyName": "Aarogya Hospital",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "PC hanging issue",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-13T09:38:17.736Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-15T12:11:19.243Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "COLLECT FOR NO DISPLAY ISSUE SO SOLVED THE PROBLEM BY RECONNECT ALL CONNECTION",
+      "_id": {
+        "$oid": "657c4267856fe2f0e9cc68ef"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "65797be3bcea72bad1b70bde"
+  },
+  "id": "5732ad59-497f-4e8a-a776-20b979b3b3e2",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Milind Gupte",
+  "companyName": "Milind Gupte",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd new VPN Router",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312072830",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-13T09:39:47.290Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T04:34:23.179Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "TP LINK Vpn router delivered and configure with rdp",
+      "_id": {
+        "$oid": "657fcbcf380f2d6ef913cb41"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "65797c23bcea72bad1b70c26"
+  },
+  "id": "68fbfa12-7fcb-4313-8272-78c35d6d026c",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Milind Gupte",
+  "companyName": "Milind Gupte",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Data Backup from virus infected hard disks",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312072830",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-13T09:40:51.499Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T04:35:37.673Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Get data backup from virus infected hard disk",
+      "_id": {
+        "$oid": "657fcc19380f2d6ef913cbc4"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "Not in AMC."
+},
+{
+  "_id": {
+    "$oid": "657a9ca5bd0e31a6d268ffd5"
+  },
+  "id": "9f657c58-cf23-4de3-97f5-23d14d3556d6",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Sachin Mhaske",
+  "companyName": "Sachin Mhaske",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "2nd Internet line need to configure in firewall",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312072830",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-14T06:11:49.844Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-16T09:17:50.932Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "CONFIGURE 2ND MACH 1 INTERNET LINE IN FIREWALL",
+      "_id": {
+        "$oid": "657d6b3e27c7157d9330865e"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657a9cecbd0e31a6d269001d"
+  },
+  "id": "05e4954b-918f-44c5-93e6-0fe08baff8de",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Sanket",
+  "companyName": "Precihole Sports",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Ubiquity access point with controller need to configure",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312072830",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-14T06:13:00.385Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-14T06:15:41.092Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Confire Ubiquity access point with controller as per customer requierement",
+      "_id": {
+        "$oid": "657a9d8dbd0e31a6d2690105"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657a9f55bd0e31a6d2690593"
+  },
+  "id": "5d3eb97d-375b-4624-a6f8-c9da5ba5f49a",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Nandu",
+  "companyName": "Suresh autocraft",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Jogeshwari",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "HP 1020+ Printer need to installed",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312145707",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-14T06:23:17.111Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-14T06:25:24.854Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "HP 1020 Plus printer installed in one system by online",
+      "_id": {
+        "$oid": "657a9fd4bd0e31a6d269068d"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657aa024bd0e31a6d26906ec"
+  },
+  "id": "e74dfb72-4ede-4265-86c4-f0acc49f1b31",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Nandu",
+  "companyName": "Suresh Autocraft",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Jogeshwari",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "pc need to share",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312072830",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-14T06:26:44.511Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-15T12:15:53.314Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "done Printer sharing",
+      "_id": {
+        "$oid": "657c4379856fe2f0e9cc6ac7"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657aeb14bd0e31a6d2690b27"
+  },
+  "id": "1e95cb47-9df7-460c-904c-a5d1cb20d931",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Rupesh",
+  "companyName": "Vihan Honda - SC",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Wagale",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Need to check CCTV recording  As per customer CCTV recording not view",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-14T11:46:28.237Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T06:56:23.775Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Issue with electricity from last 3 days so icall closed from our side and same thig inform to customer ",
+      "_id": {
+        "$oid": "657fed1754d944dc669fdae6"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657be790082a956a3569390c"
+  },
+  "id": "79bd576c-e269-435f-ba1e-6b029892edcb",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Uday",
+  "companyName": "LAHS",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Out mail sent received issue ( synkronisation issue )",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312072830",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-15T05:43:44.868Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-15T07:31:12.486Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "No any issue found",
+      "_id": {
+        "$oid": "657c00c0856fe2f0e9cc5f75"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657be7cb082a956a3569395e"
+  },
+  "id": "f927ad56-bb3e-4be9-844d-04a4fa280589",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Amol",
+  "companyName": "suresh auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Wagale",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd new Desktop CPU system",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-15T05:44:43.715Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-15T07:27:16.281Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Delivered and installed new desktop system",
+      "_id": {
+        "$oid": "657bffd4856fe2f0e9cc5e1b"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657be813082a956a356939be"
+  },
+  "id": "426b026c-8008-453e-9869-96806b24d48c",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Varsha",
+  "companyName": "Design",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "All 9 system Outlook Backup reqd on NAS",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-15T05:45:55.427Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T06:44:49.651Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Take backup from all 11 pc in NAS deive and share data path to Miss Varsha MAM",
+      "_id": {
+        "$oid": "657fea6154d944dc669fd9c6"
+      }
+    },
+    {
+      "timestamp": {
+        "$date": "2023-12-18T06:53:27.952Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "all user outlook backup copy in NAS and data path share to Miss Varsha Mam",
+      "_id": {
+        "$oid": "657fec6754d944dc669fda53"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657c44a1856fe2f0e9cc6b36"
+  },
+  "id": "ba71b7b7-663a-40f8-bc8c-efe8c12704b0",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Assad",
+  "companyName": "Assad Consultancy",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd Licence  ms office for Shehabaz User",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-15T12:20:49.178Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T07:33:19.671Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Installed MSoffice 2021 and configure mail id in Outlook",
+      "_id": {
+        "$oid": "657ff5bf54d944dc669fe37f"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657d4a2427c7157d93308510"
+  },
+  "id": "a9a5b461-c6c2-48d9-a160-84565402c68e",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Umesh",
+  "companyName": "JMK",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Mulund",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Paper not pickup",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-16T06:56:36.532Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-16T06:57:28.008Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "collect printer and sent to sunil satwe for repair",
+      "_id": {
+        "$oid": "657d4a5827c7157d9330857e"
+      }
+    },
+    {
+      "timestamp": {
+        "$date": "2023-12-20T07:29:09.418Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Printer repair from Sunil Satwe for Paper stuck issue and provide Ink Bottle",
+      "_id": {
+        "$oid": "658297c5d52708a4ff823e52"
+      }
+    }
+  ],
+  "__v": 0,
+  "AMC": "In AMC."
+},
+{
+  "_id": {
+    "$oid": "657fdf6d54d944dc669fd3b5"
+  },
+  "id": "db735580-825d-41fd-a998-6c55587c426a",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Vishnu",
+  "companyName": "Arogya Hospital",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "PC hanging issue / reqd to installed new SSD",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-18T05:58:06.016Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-20T07:31:17.643Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "1 TB SSD provide by Customer and pc clone from Old HDD to New SSD",
+      "_id": {
+        "$oid": "65829845d52708a4ff823eee"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fdfc154d944dc669fd41d"
+  },
+  "id": "06cfdd9a-eaef-4835-8d5c-b300233ff1de",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Pravin Gupta",
+  "companyName": "Assad Consulting",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd to configure mail ID in outlook ",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-18T05:59:29.588Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T07:32:11.296Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "gMAIL SITE OPEN THROUGH FIREWALL",
+      "_id": {
+        "$oid": "657ff57b54d944dc669fe2ef"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fe0ca54d944dc669fd57f"
+  },
+  "id": "9a26f0c4-cdf3-4567-aa30-d9ccdf495f1e",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Sanjana",
+  "companyName": "Vcon Movers",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Reqd to installed Tally Trial Version",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-18T06:03:54.105Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T06:42:52.957Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Customer gte help from there Tally Person so call closed from out side",
+      "_id": {
+        "$oid": "657fe9ec54d944dc669fd935"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657feeb554d944dc669fe1e1"
+  },
+  "id": "1a622613-637d-4594-93aa-0c350ee1b0b6",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Naresh",
+  "companyName": "Suresh Auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Ulhasnagar",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "PC restrt automatically",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312145707",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-18T07:03:17.619Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-18T07:06:41.664Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Found windows update backgroundly working so pc fully manually update and cleane temp file",
+      "_id": {
+        "$oid": "657fef8154d944dc669fe261"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658294ffd52708a4ff823bee"
+  },
+  "id": "b2f4d2bf-a470-4abb-9694-300b9ae01abf",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Narendra",
+  "companyName": "Vihan Honda - SR",
+  "email": "123@gmal.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Manpada",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "CCTV Access remove from Shahapur Showroom and service centre site",
+  "resolved": false,
+  "priority": "low",
+  "Problem": "Assigned.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T07:17:19.554Z"
+  },
+  "logs": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658295d6d52708a4ff823c64"
+  },
+  "id": "5d4cc774-55d6-4c9b-97e2-0ff8e7aa13de",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Narendra",
+  "companyName": "Vihan Honda - SR",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Manpada",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "CCTV access remove from Padgha Showroom and service centre branch",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T07:20:54.195Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-20T07:32:56.590Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Change DVR Password",
+      "_id": {
+        "$oid": "658298a8d52708a4ff823f7a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65829656d52708a4ff823cda"
+  },
+  "id": "5478a592-8b5b-44cb-9b66-661d4e2765a7",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Vikas",
+  "companyName": "Honeytech",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Mulund",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Mail not sent and showing message not syncronising",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T07:23:02.947Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-20T09:07:05.252Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Fouund Specific mail ID Size is full So mail not received",
+      "_id": {
+        "$oid": "6582aeb9d52708a4ff824862"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658296e7d52708a4ff823d50"
+  },
+  "id": "86b726d6-4517-41cb-8655-5ed932896c11",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Gayatri",
+  "companyName": "Suresh Auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "RTO-Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Also After replacing the toner While printing 2 Line on Page",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T07:25:27.869Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-21T06:51:31.785Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Clean toner and check",
+      "_id": {
+        "$oid": "6583e073b706d3c0b71eae45"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65829734d52708a4ff823dc6"
+  },
+  "id": "1da1074a-1195-4f10-89a4-5ce9e5614fbd",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Assad",
+  "companyName": "ACS",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Reqd New i9-12 GEN  workstation for design department",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T07:26:44.863Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-21T06:48:55.086Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Delivered new desktop system and installed reqd. software",
+      "_id": {
+        "$oid": "6583dfd7b706d3c0b71eada2"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658299eed52708a4ff824368"
+  },
+  "id": "f6a14f64-bfc4-47b6-b1a2-39ddcd08edcf",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Nilesh - Avdut",
+  "companyName": "Design",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "Excel not working",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T07:38:22.580Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-20T08:02:36.762Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Reinstalled MS OFF",
+      "_id": {
+        "$oid": "65829f9cd52708a4ff8246b1"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65829caed52708a4ff824503"
+  },
+  "id": "ae9dfad0-c825-4724-9019-29166f592116",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Naresh",
+  "companyName": "Suresh Auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Ulhasnagar",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "Spark from SMPS-Engg sent with SMPS",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T07:50:06.695Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-21T06:52:33.542Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Replaced SMPS and power cord and start the PC",
+      "_id": {
+        "$oid": "6583e0b1b706d3c0b71eaeeb"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b1c6d52708a4ff8248f1"
+  },
+  "id": "5f30fbc3-3276-43e9-b8ad-7ffbcd493336",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Pravina",
+  "companyName": "Suresh Autocraft",
+  "email": "123@gmail.com",
+  "phoneNumber": "123456789",
+  "landlineNumber": "Andheri",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "PC Booting issue",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312044518",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T09:20:06.820Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-21T11:15:02.845Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "PC format and installed reqd software",
+      "_id": {
+        "$oid": "65841e36039749ca4cedf75d"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582c271d52708a4ff824a84"
+  },
+  "id": "659c1bb5-827a-4bcd-800e-46835b669d03",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Sunil",
+  "companyName": "ICON System",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Bhandup",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "PC not start",
+  "resolved": true,
+  "priority": "high",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "Not in AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-20T10:31:13.882Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-20T10:37:12.293Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Reconnect all connection and clear CMOS",
+      "_id": {
+        "$oid": "6582c3d8d52708a4ff824baf"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583deffb706d3c0b71ea860"
+  },
+  "id": "321702ba-e93c-4ce8-a663-a60c764e3a4d",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Rupesh",
+  "companyName": "Vihan Honda",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Wgale",
+  "issue": "Software",
+  "channel": "",
+  "remarks": "Share printer not working",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312145707",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-21T06:45:19.597Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-21T06:46:08.065Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Reinstalled sharing Printer",
+      "_id": {
+        "$oid": "6583df30b706d3c0b71ea8f2"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6584153f039749ca4cedf0f0"
+  },
+  "id": "76d716fa-ac8a-4b98-a77f-74e7ed2c9d5a",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Vaibhav",
+  "companyName": "Vihan Honda",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Manpada",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "PC not start",
+  "resolved": false,
+  "priority": "low",
+  "Problem": "Assigned.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-21T10:36:47.397Z"
+  },
+  "logs": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65841595039749ca4cedf17a"
+  },
+  "id": "6d47012f-5371-4e7d-bf60-7dc621fb838d",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Vaibhav",
+  "companyName": "Vihan Honda",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Manpada",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "1 lan cable crimping reqd ( no lan connection )",
+  "resolved": false,
+  "priority": "low",
+  "Problem": "Assigned.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-21T10:38:13.402Z"
+  },
+  "logs": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658415e9039749ca4cedf204"
+  },
+  "id": "21baf995-6821-4a23-8d82-e0e2b7d1bf44",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Rajesh",
+  "companyName": "LAHS",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Dombivali",
+  "issue": "Software",
+  "channel": "Phone",
+  "remarks": "PC auto restart issue",
+  "resolved": false,
+  "priority": "low",
+  "Problem": "Under Observation.",
+  "ServiceType": "Online.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312145707",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-21T10:39:37.241Z"
+  },
+  "logs": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65841746039749ca4cedf46e"
+  },
+  "id": "196c6df5-dc70-4aa2-be34-a551c8d8ecbd",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Yogesh",
+  "companyName": "Suresh Auto",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Dombivali",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "User need to add in Door access and CCTV access set in Khuba Sir Monile",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "In AMC.",
+  "assignedEngineer": "202312021788",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-21T10:45:26.836Z"
+  },
+  "logs": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65842bdd039749ca4cedfad7"
+  },
+  "id": "9b1fe334-32fc-4e33-87fb-f2c318a69262",
+  "byUser": {
+    "$numberLong": "202311273592"
+  },
+  "name": "Mr. Rane",
+  "companyName": "D K Rajshree",
+  "email": "123@gmail.com",
+  "phoneNumber": "12345678",
+  "landlineNumber": "Thane",
+  "issue": "Hardware",
+  "channel": "Phone",
+  "remarks": "PC Not Start",
+  "resolved": true,
+  "priority": "low",
+  "Problem": "Closed.",
+  "ServiceType": "Visit.",
+  "AMC": "Not in AMC.",
+  "assignedEngineer": "202312041438",
+  "accepted": 1,
+  "createdAt": {
+    "$date": "2023-12-21T12:13:17.773Z"
+  },
+  "logs": [
+    {
+      "timestamp": {
+        "$date": "2023-12-22T04:38:46.514Z"
+      },
+      "userRole": "9087-t1-vaek-123-riop",
+      "message": "Assign new IP for Ncomputing device",
+      "_id": {
+        "$oid": "658512d6ce3620ee330606f9"
+      }
+    }
+  ],
+  "__v": 0
+}]
